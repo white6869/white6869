@@ -59,3 +59,8 @@
 
 ## 🚀 Goal
 효율적인 코드로 완성도를 높이는 개발자 되기
+
+
+## 🔥 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=white6869&theme=tokyonight)
